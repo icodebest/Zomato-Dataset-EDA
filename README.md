@@ -66,7 +66,7 @@ This project uses the following tools and libraries:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/zomato-eda.git
+    git clone https://github.com/icodebest/zomato-dataset-eda.git
     ```
 2. Navigate to the project directory:
     ```sh
